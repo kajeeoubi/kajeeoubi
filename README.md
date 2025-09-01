@@ -16,11 +16,9 @@
 <br>
 
 ## 🗂️ About Me
-<p align="right">
-  <img src="./nyancat_2.gif" alt="Nyan Cat Flying" width="250px"/>
-</p>
 
 ### 👩‍💻 Who Am I?
+
 - 💻 Fullstack developer focusing on **PHP (Laravel)**, **MySQL**, and **Android Studio**  
 - 🎨 Passionate about **modern UI/UX**, aiming for clean and user-friendly designs  
 - 🌱 Always learning and exploring new technologies to stay up-to-date  

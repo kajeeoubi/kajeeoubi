@@ -23,7 +23,9 @@
 - 💻 Fullstack developer focusing on **PHP (Laravel)**, **MySQL**, and **Android Studio**  
 - 🎨 Passionate about **modern UI/UX**, aiming for clean and user-friendly designs  
 - 🌱 Always learning and exploring new technologies to stay up-to-date  
-- 😴 Fun fact: Sometimes I code until I fall asleep at my desk  
+- 😴 Fun fact: Sometimes I code until I fall asleep at my desk
+
+<br>
 
 ---
 

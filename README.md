@@ -1,4 +1,4 @@
-<img src="./nyancat.gif" alt="Nyan Cat" width="100%"/>
+<img src="./nyan cat.gif" alt="Nyan Cat" width="100%"/>
 
 ## Hi there 👋
 

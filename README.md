@@ -18,6 +18,9 @@
 ## 🗂️ About Me
 
 ### 👩‍💻 Who Am I?
+<img align="right" src="https://media1.tenor.com/m/fzLNrln0QiwAAAAC/mfpurrs-mfpurr.gif" width="150"/>
+
+<br>
 
 - 💻 Fullstack developer focusing on **PHP (Laravel)**, **MySQL**, and **Android Studio**  
 - 🎨 Passionate about **modern UI/UX**, aiming for clean and user-friendly designs  

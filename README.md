@@ -16,6 +16,9 @@
 <br>
 
 ## 🗂️ About Me
+<p align="right">
+  <img src="./nyancat_2.gif" alt="Nyan Cat Flying" width="250px"/>
+</p>
 
 ### 👩‍💻 Who Am I?
 - 💻 Fullstack developer focusing on **PHP (Laravel)**, **MySQL**, and **Android Studio**  
@@ -25,10 +28,11 @@
 
 ---
 
-### 💼 What I Do
-- 🖥️ Build **web applications** that are fast, secure, and scalable  
-- 📱 Create **mobile apps** with smooth performance and modern interfaces  
-- 🗄️ Manage and optimize **databases** for reliable applications  
+### 💼 What I Do 
+
+- 🖥️ Build **web applications** that are fast, secure, and scalable 
+- 📱 Create **mobile apps** with smooth performance and modern interfaces 
+- 🗄️ Manage and optimize **databases** for reliable applications
 
 ---
 

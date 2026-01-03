@@ -20,16 +20,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kajeeoubi/kajeeoubi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kajeeoubi/kajeeoubi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kajeeoubi/kajeeoubi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
-
 <h2 align="center">Languages & Tools</h2>
 
 ###
@@ -78,4 +68,14 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kajeeoubi/kajeeoubi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kajeeoubi/kajeeoubi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kajeeoubi/kajeeoubi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>

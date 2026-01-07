@@ -13,9 +13,8 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&center=true&vCenter=true&width=700&lines=My+name+is+Desta+Arda+Fernando+and+I'm+a+Fullstack+Developer+from+Indonesia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&center=true&vCenter=true&width=600&lines=My+name+is+Desta+Arda+Fernando;I'm+a+Fullstack+Developer+from+Indonesia" alt="Typing SVG" />
 </p>
-
 
 ###
 

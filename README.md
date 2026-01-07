@@ -12,7 +12,12 @@
 
 ###
 
-<p align="center">My name is Desta Arda Fernando and I'm a Fullstact  Developer from Indonesia</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=700&lines=My+name+is+Desta+Arda+Fernando+and+I'm+a+Fullstack+Developer+from+Indonesia" alt="Typing SVG" style="vertical-align: middle;" />
+  </a>
+  <img src="https://media.giphy.com/media/QvS37K802915Q9Qc8a/giphy.gif" width="40px" style="vertical-align: middle;">
+</p>
 
 ###
 
